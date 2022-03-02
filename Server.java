@@ -10,6 +10,8 @@ import javax.crypto.*;
 import javax.crypto.spec.IvParameterSpec;
 
 
+//Arguments: Name Port
+
 
 public class Server {
 
